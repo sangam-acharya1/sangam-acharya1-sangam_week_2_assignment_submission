@@ -23,7 +23,7 @@ public class BankAccount {
             System.out.println("invalid deposit amount");
         }
     }
-    // snagam chor desh chorrrr
+   
 
     public  void withdraw(double amount){
             if(amount <= balance){
